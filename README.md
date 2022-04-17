@@ -9,4 +9,4 @@
 Python
 
 ## See it in Action
-![day39](flightdeal.mp4)
+![flightdeal](flightdeal.gif)
