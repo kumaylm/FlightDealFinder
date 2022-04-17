@@ -2,7 +2,7 @@
 ## Concepts Practiced
 - OOP
 - HTTP Requests
-- Using API to Send Telegram Alerts
+- Using API to Send SMS Alerts
 - Autofilling dates using strftime function
 
 ## Language Implemented
