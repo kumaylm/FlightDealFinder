@@ -9,4 +9,4 @@
 Python
 
 ## See it in Action
-![day39](https://user-images.githubusercontent.com/98851253/156944290-de51e891-a114-411b-834b-7e07cb1881c4.gif)
+![day39](flightdeal.mp4)
